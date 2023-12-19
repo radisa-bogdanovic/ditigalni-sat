@@ -11,7 +11,7 @@ def azuriraj_sat():
 app=sat.Tk()
 app.title("Digitalni sat")
 
-satt= sat.Label(app, text="", font=("Helvetica"), height=6, width=10 )
+satt= sat.Label(app, text="", font=("Helvetica"), height=6, width=16 )
 satt.pack()
 
 
